@@ -1,0 +1,27 @@
+.heading-font {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 31px;
+    font-weight: bold;
+    color: #e27b7d;
+}
+
+.para-font {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    color: #000;
+}
+
+.co-heading-font {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    /* font-style: italic; */
+}
+
+.span-italics {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
